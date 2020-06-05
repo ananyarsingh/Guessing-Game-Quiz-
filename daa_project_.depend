@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1559567918 source:c:\users\ananya singh\desktop\codeblocks\daa_project_\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<signal.h>
+
